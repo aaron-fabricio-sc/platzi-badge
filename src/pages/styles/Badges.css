@@ -1,0 +1,45 @@
+.Badges__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+  margin-bottom: 1rem;
+}
+.Badges__heroHome {
+  background: url("../../images/stars.svg"), #1b1b25;
+  width: 100%;
+  height: 97vh;
+}
+
+.Badges__hero > .Badges__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Badges__container {
+  width: 100%;
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 01rem;
+}
+
+.Badges_conf-logo {
+  margin-bottom: 2rem;
+}
+
+.Badges__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
+
+.Badges__container-Home {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.imgHome {
+  width: 75%;
+}

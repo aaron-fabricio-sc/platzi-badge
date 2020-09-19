@@ -1,0 +1,21 @@
+.Hero-Home {
+    width: 100%;
+    height: 94vh;
+
+    background: url("../../images/stars.svg"), #1b1b25;
+    background-repeat: repeat;
+
+}
+
+.Hero-Home_container {
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    height: 100%;
+    justify-content: center;
+}
+
+.container-btn {
+    width: 100%;
+    text-align: right;
+}

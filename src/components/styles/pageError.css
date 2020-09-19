@@ -1,0 +1,14 @@
+.Badges__heroError {
+  background: url("../../images/stars.svg"), #1b1b25;
+  width: 100%;
+  height: 97vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mensaje {
+  padding: 10px 20px;
+  background: white;
+  color: black;
+  font-size: 32px;
+}
